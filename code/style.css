@@ -1,3 +1,9 @@
 #log-in-form, h1{
     text-align: center;
 }
+
+#user-tutor {
+    margin-top: 20px;
+    padding:2px;
+    width: 70%;
+}
