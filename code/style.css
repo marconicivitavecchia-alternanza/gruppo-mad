@@ -1,5 +1,7 @@
 #log-in-form, h1{
     text-align: center;
+    margin-top: 10px;
+    color: green;
 }
 
 #user-tutor {
@@ -7,3 +9,26 @@
     padding:2px;
     width: 70%;
 }
+
+#username{
+    color: red;
+}
+
+#password{
+    padding: 10px;
+    color: red;
+}
+
+#password_dimenticata{
+    font-style: italic;
+    font-weight: bold;
+}
+
+#accedi{
+    padding: 10px;
+}
+
+#user-tutor{
+    padding: 0 20px 40px 20px;
+}
+
